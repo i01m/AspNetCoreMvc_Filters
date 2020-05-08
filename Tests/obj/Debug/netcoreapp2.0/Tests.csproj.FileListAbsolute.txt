@@ -1,0 +1,17 @@
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\Tests.deps.json
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\Tests.runtimeconfig.json
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\Tests.runtimeconfig.dev.json
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\Tests.dll
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\Filters.dll
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\Filters.pdb
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\obj\Debug\netcoreapp2.0\Tests.csprojResolveAssemblyReference.cache
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\obj\Debug\netcoreapp2.0\Tests.csproj.CoreCompileInputs.cache
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\obj\Debug\netcoreapp2.0\Tests.AssemblyInfoInputs.cache
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\obj\Debug\netcoreapp2.0\Tests.AssemblyInfo.cs
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\obj\Debug\netcoreapp2.0\Tests.csproj.CopyComplete
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\bin\Debug\netcoreapp2.0\Tests.pdb
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\obj\Debug\netcoreapp2.0\Tests.dll
+C:\developmentVM\aspNetCoreMvc2\Filters\Tests\obj\Debug\netcoreapp2.0\Tests.pdb
